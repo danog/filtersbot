@@ -1,6 +1,6 @@
 # filtersbot
 
-Repo of the [filtersbot](https://telegram.me/cowsaysbot).
+Repo of the [filtersbot](https://telegram.me/filtersbot).
 
 Licensed under GPLv3.
 
